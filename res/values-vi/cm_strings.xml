@@ -216,8 +216,8 @@
   <string name="call_recording_format">Định dạng ghi âm cuộc gọi</string>
   <string name="ims_get_packet_count_failed">Không thể lấy số gói tin</string>
   <string name="ims_get_packet_error_count_failed">Không thể lấy số lỗi gói tin</string>
-  <string name="ims_get_packet_count_label">Chạm để lấy số gói tin</string>
-  <string name="ims_get_packet_error_count_label">Chạm để lấy số lỗi gói tin</string>
+  <string name="ims_get_packet_count_label">Chạm vào đây để lấy số gói tin</string>
+  <string name="ims_get_packet_error_count_label">Chạm vào đây để lấy số lỗi gói tin</string>
   <string name="wifi_call_setting">Cài đặt gọi WiFi</string>
   <string name="wifi_calling_title">Gọi WiFi</string>
   <string name="wifi_calling_preference_title">Tuỳ chọn gọi WiFi</string>
